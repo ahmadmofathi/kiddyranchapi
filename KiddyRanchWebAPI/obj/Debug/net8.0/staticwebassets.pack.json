@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+      "PackagePath": "staticwebassets\\custom-pages\\sorry.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KiddyRanchWeb.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KiddyRanchWeb.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KiddyRanchWeb.API.props",
+      "PackagePath": "build\\KiddyRanchWeb.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KiddyRanchWeb.API.props",
+      "PackagePath": "buildMultiTargeting\\KiddyRanchWeb.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KiddyRanchWeb.API.props",
+      "PackagePath": "buildTransitive\\KiddyRanchWeb.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

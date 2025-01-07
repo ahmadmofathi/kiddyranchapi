@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "1sBqEoKkhd9ZB3b8j+hNsIbgo2jR5eMnBYCZYB22JfI=",
+  "Source": "KiddyRanchWeb.API",
+  "BasePath": "_content/KiddyRanchWeb.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KiddyRanchWeb.API\\wwwroot",
+      "Source": "KiddyRanchWeb.API",
+      "ContentRoot": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\",
+      "BasePath": "_content/KiddyRanchWeb.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+      "SourceId": "KiddyRanchWeb.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\",
+      "BasePath": "_content/KiddyRanchWeb.API",
+      "RelativePath": "custom-pages/sorry#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dezj4mcqoj",
+      "Integrity": "C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\custom-pages\\sorry.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "custom-pages/sorry.dezj4mcqoj.html",
+      "AssetFile": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 11:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dezj4mcqoj"
+        },
+        {
+          "Name": "label",
+          "Value": "custom-pages/sorry.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs="
+        }
+      ]
+    },
+    {
+      "Route": "custom-pages/sorry.html",
+      "AssetFile": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 11:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs="
+        }
+      ]
+    }
+  ]
+}

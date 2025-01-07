@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>False|2024-11-06T08:46:27.0229779Z||;True|2024-07-14T22:35:05.2804596+03:00||;True|2024-07-14T22:32:45.8480792+03:00||;False|2024-07-14T22:21:53.5607185+03:00||;False|2024-07-14T22:20:05.9072584+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8020.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="SecretKey">
+      <Value>Data Source=SQL8020.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="KiddyRanchWeb.DAL.AppDbContext">
+      <Value>Data Source=SQL8020.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

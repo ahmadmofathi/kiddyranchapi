@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "custom-pages/sorry.dezj4mcqoj.html",
+      "AssetFile": "custom-pages/sorry.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 11:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dezj4mcqoj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs="
+        },
+        {
+          "Name": "label",
+          "Value": "custom-pages/sorry.html"
+        }
+      ]
+    },
+    {
+      "Route": "custom-pages/sorry.html",
+      "AssetFile": "custom-pages/sorry.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Aug 2024 11:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+q1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs="
+        }
+      ]
+    }
+  ]
+}

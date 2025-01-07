@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>https</ActiveDebugProfile>
+    <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
+    <NameOfLastUsedPublishProfile>C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWebAPI\Properties\PublishProfiles\jupiter01academy-001-subsite5 - Web Deploy7.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>

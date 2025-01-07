@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/KiddyRanchWeb.API/custom-pages/sorry.dezj4mcqoj.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\custom-pages\sorry.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dezj4mcqoj"},{"Name":"integrity","Value":"sha256-C\u002Bq1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs="},{"Name":"label","Value":"_content/KiddyRanchWeb.API/custom-pages/sorry.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"582"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022C\u002Bq1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 Aug 2024 11:18:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KiddyRanchWeb.API/custom-pages/sorry.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\custom-pages\sorry.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-C\u002Bq1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"582"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022C\u002Bq1vMZauF6tYuT7GtTq7Hh6ngOa5XTULg0TjW1a5Rs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 Aug 2024 11:18:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

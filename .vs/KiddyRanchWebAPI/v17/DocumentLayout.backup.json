@@ -1,0 +1,1552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\AppData\\Roaming\\Microsoft\\UserSecrets\\f299818e-a1e5-4ab3-89b3-711e8d5351cf\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20241205073502_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KiddyRanchWeb.DAL\\Migrations\\20241205073502_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\incomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\incomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\incomes\\incomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\incomes\\incomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\incomes\\iincomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\incomes\\iincomemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\income\\incomerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\income\\incomerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\income\\iincomerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\income\\iincomerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\careerinterviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\careerinterviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\studentinterviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\studentinterviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\studentinterview\\istudentinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\studentinterview\\istudentinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\employee\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\employee\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\income\\incomeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\income\\incomeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\income\\incomereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\income\\incomereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\income\\incomeadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\income\\incomeadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\image\\imagereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\image\\imagereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\employee\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\employee\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\studentinterview\\studentinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\studentinterview\\studentinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\careerinterview\\icareerinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\careerinterview\\icareerinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\careerinterview\\careerinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\careerinterview\\careerinterviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\migrations\\20240831173426_unicode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\migrations\\20240831173426_unicode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\careerinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\careerinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\wwwroot\\custom-pages\\sorry.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\wwwroot\\custom-pages\\sorry.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\Documents\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\Documents\\web (1).config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\properties\\publishprofiles\\jupiter01academy-001-subsite5 - web deploy5.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\properties\\publishprofiles\\jupiter01academy-001-subsite5 - web deploy5.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\careerinterview\\careerinterviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\careerinterview\\careerinterviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\studentinterview\\studentinterviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\studentinterview\\studentinterviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\studentinterview\\studentinterviewadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\studentinterview\\studentinterviewadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\careerinterview\\careerinterviewadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\careerinterview\\careerinterviewadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\studentinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\studentinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\imagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\imagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\branch\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\branch\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\branch\\ibranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\branch\\ibranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\branch\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\branch\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\branch\\branchadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\branch\\branchadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\branch\\branchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\branch\\branchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\branch\\ibranchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\branch\\ibranchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\call\\icallrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\call\\icallrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\call\\callmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\call\\callmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\call\\icallmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\call\\icallmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\employee\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\employee\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\call\\callrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\call\\callrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\image\\imageadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\image\\imageadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\section\\sectionwithimagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\section\\sectionwithimagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\controllers\\callscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\controllers\\callscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\section\\sectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\section\\sectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\image\\imagefilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\image\\imagefilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\section\\isectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\section\\isectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\image\\iimagefilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\image\\iimagefilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\section\\sectionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\section\\sectionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\section\\sectionadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\section\\sectionadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\images\\imagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\images\\imagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\images\\iimagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\images\\iimagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\section\\sectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\section\\sectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\section\\isectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\section\\isectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\employee\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\employee\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\call\\calldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\call\\calldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240811173119_callsss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KiddyRanchWeb.DAL\\Migrations\\20240811173119_callsss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\call\\calladddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\call\\calladddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\employee\\employeeadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\employee\\employeeadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\upload\\uploadfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\upload\\uploadfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\kiddyranchwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\kiddyranchwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\careerinterview\\careerinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\careerinterview\\careerinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\careerinterview\\icareerinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\careerinterview\\icareerinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\studentinterview\\studentinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\studentinterview\\studentinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\studentinterview\\istudentinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\studentinterview\\istudentinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\managers\\user\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\managers\\user\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\repos\\user\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\repos\\user\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchwebapi\\kiddyranchweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2457699F-8EE5-44DE-8AD0-B62948A45357}|KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj|solutionrelative:kiddyranchwebapi\\kiddyranchweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\token\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\token\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\user\\useradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\user\\useradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.bl\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2207AAA-20C3-4433-BBA4-3DF6FAB0071A}|KiddyRanchWeb.BL\\KiddyRanchWeb.BL.csproj|solutionrelative:kiddyranchweb.bl\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\migrations\\20240824133754_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\migrations\\20240824133754_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\kiddyranchwebapi\\kiddyranchweb.dal\\migrations\\20241022093325_income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388801B4-9C61-4618-8D5E-E08DC7E138AD}|KiddyRanchWeb.DAL\\KiddyRanchWeb.DAL.csproj|solutionrelative:kiddyranchweb.dal\\migrations\\20241022093325_income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241205073502_test.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20241205073502_test.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Migrations\\20241205073502_test.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20241205073502_test.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Migrations\\20241205073502_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:35:02.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\IncomeController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\IncomeController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\IncomeController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\IncomeController.cs",
+              "ViewState": "AgIAABQAAAAAopmZmRkXwCEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:27:27.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\appsettings.json",
+              "RelativeToolTip": "KiddyRanchWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T07:43:58.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\AppData\\Roaming\\Microsoft\\UserSecrets\\f299818e-a1e5-4ab3-89b3-711e8d5351cf\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f299818e-a1e5-4ab3-89b3-711e8d5351cf\\secrets.json",
+              "ToolTip": "C:\\Users\\ahmad\\AppData\\Roaming\\Microsoft\\UserSecrets\\f299818e-a1e5-4ab3-89b3-711e8d5351cf\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f299818e-a1e5-4ab3-89b3-711e8d5351cf\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T16:55:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Program.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:50:08.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIncomeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Incomes\\IIncomeManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Incomes\\IIncomeManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Incomes\\IIncomeManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Incomes\\IIncomeManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:23:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IncomeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Income\\IncomeRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Income\\IncomeRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Income\\IncomeRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Income\\IncomeRepo.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:17:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IIncomeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Income\\IIncomeRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Income\\IIncomeRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Income\\IIncomeRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Income\\IIncomeRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:16:29.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncomeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Incomes\\IncomeManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Incomes\\IncomeManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Incomes\\IncomeManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Incomes\\IncomeManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv20AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:23:22.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentInterviewManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\StudentInterview\\IStudentInterviewManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\StudentInterview\\IStudentInterviewManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\StudentInterview\\IStudentInterviewManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\StudentInterview\\IStudentInterviewManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:42:26.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentInterviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\StudentInterviewsController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\StudentInterviewsController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\StudentInterviewsController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\StudentInterviewsController.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAQwF4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:53:28.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CareerInterviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\CareerInterviewsController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\CareerInterviewsController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\CareerInterviewsController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\CareerInterviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:31:14.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Employee\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Employee\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Employee\\EmployeeManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Employee\\EmployeeManager.cs",
+              "ViewState": "AgIAABEAAAAAZmZmZuY+wCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:44:36.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20241022093325_income.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20241022093325_income.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Migrations\\20241022093325_income.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20241022093325_income.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Migrations\\20241022093325_income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:33:25.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IncomeUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Income\\IncomeUpdateDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Income\\IncomeUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Income\\IncomeUpdateDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Income\\IncomeUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:22:53.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IncomeReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Income\\IncomeReadDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Income\\IncomeReadDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Income\\IncomeReadDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Income\\IncomeReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:22:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IncomeAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Income\\IncomeAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Income\\IncomeAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Income\\IncomeAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Income\\IncomeAddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:21:24.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Income.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\Income.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Income.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\Income.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:09:04.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICareerInterviewManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\CareerInterview\\ICareerInterviewManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\CareerInterview\\ICareerInterviewManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\CareerInterview\\ICareerInterviewManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\CareerInterview\\ICareerInterviewManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwAoAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:21:59.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAD8AAAAApJmZmZkvwE8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:22:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImageReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Image\\ImageReadDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Image\\ImageReadDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Image\\ImageReadDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Image\\ImageReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:28:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentInterviewManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\StudentInterview\\StudentInterviewManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\StudentInterview\\StudentInterviewManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\StudentInterview\\StudentInterviewManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\StudentInterview\\StudentInterviewManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAB8PTgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:43:24.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Employee\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Employee\\IEmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Employee\\IEmployeeRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Employee\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:32:12.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CareerInterviewManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\CareerInterview\\CareerInterviewManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\CareerInterview\\CareerInterviewManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\CareerInterview\\CareerInterviewManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\CareerInterview\\CareerInterviewManager.cs",
+              "ViewState": "AgIAAEcAAABAzMzMzMwYwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:22:50.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\SectionsController.cs",
+              "ViewState": "AgIAABAAAAAA8/////8PwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:59:23.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:50:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240831173426_unicode.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240831173426_unicode.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Migrations\\20240831173426_unicode.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240831173426_unicode.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Migrations\\20240831173426_unicode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:34:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CareerInterview.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\CareerInterview.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\CareerInterview.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\CareerInterview.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\CareerInterview.cs",
+              "ViewState": "AgIAABEAAACgmZmZmZk1wAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:11:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "sorry.html",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+              "RelativeToolTip": "KiddyRanchWebAPI\\wwwroot\\custom-pages\\sorry.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T11:11:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T08:36:03.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Documents\\web.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\web.config",
+              "ToolTip": "C:\\Users\\ahmad\\Documents\\web.config",
+              "RelativeToolTip": "..\\..\\..\\Documents\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-27T09:26:37.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "jupiter01academy-001-subsite5 - Web Deploy5.pubxml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Properties\\PublishProfiles\\jupiter01academy-001-subsite5 - Web Deploy5.pubxml",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Properties\\PublishProfiles\\jupiter01academy-001-subsite5 - Web Deploy5.pubxml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Properties\\PublishProfiles\\jupiter01academy-001-subsite5 - Web Deploy5.pubxml",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Properties\\PublishProfiles\\jupiter01academy-001-subsite5 - Web Deploy5.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-27T08:39:17.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "web (1).config",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Documents\\web (1).config",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\web (1).config",
+              "ToolTip": "C:\\Users\\ahmad\\Documents\\web (1).config",
+              "RelativeToolTip": "..\\..\\..\\Documents\\web (1).config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-27T09:28:21.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentInterviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:38:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CareerInterviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:20:36.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentInterviewAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\StudentInterview\\StudentInterviewAddDTO.cs",
+              "ViewState": "AgIAAAsAAACgzMzMzMw7wBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:40:32.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:52:21.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CareerInterviewAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\CareerInterview\\CareerInterviewAddDTO.cs",
+              "ViewState": "AgIAAAoAAAAAZWZmZmYUwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:21:24.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentInterview.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\StudentInterview.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\StudentInterview.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\StudentInterview.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\StudentInterview.cs",
+              "ViewState": "AgIAABgAAADgl5mZmRk6wCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:32:26.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20240824133754_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240824133754_InitialCreate.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Migrations\\20240824133754_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240824133754_InitialCreate.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Migrations\\20240824133754_InitialCreate.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:37:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Branch.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\Branch.cs",
+              "ViewState": "AgIAABIAAABwmZmZmRkwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:58:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Call.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Call.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\Call.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Call.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\Call.cs",
+              "ViewState": "AgIAAAkAAAAALzMzMzP7vxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:19:31.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Employee.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAACgzMzMzMwnwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:29:27.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ImageFile.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\ImageFile.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\ImageFile.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\ImageFile.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\ImageFile.cs",
+              "ViewState": "AgIAAAMAAAAAMzMzMzP7vwoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:12:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\Section.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\Section.cs",
+              "ViewState": "AgIAAAIAAABg//////8gwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:09:25.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Data\\Models\\User.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:18:42.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\BranchesController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\BranchesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:35:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BranchManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Branch\\BranchManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Branch\\BranchManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Branch\\BranchManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Branch\\BranchManager.cs",
+              "ViewState": "AQIAAIUAAAAAXjMzMzMDwJEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:01:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IBranchManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Branch\\IBranchManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Branch\\IBranchManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Branch\\IBranchManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Branch\\IBranchManager.cs",
+              "ViewState": "AQIAAAMAAABAMjMzMzMbwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:00:31.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BranchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Branch\\BranchDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Branch\\BranchDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Branch\\BranchDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Branch\\BranchDTO.cs",
+              "ViewState": "AQIAABIAAABAzMzMzMwxwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:40:34.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CallManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Call\\CallManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Call\\CallManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Call\\CallManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Call\\CallManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:10:49.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICallManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Call\\ICallManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Call\\ICallManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Call\\ICallManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Call\\ICallManager.cs",
+              "ViewState": "AQIAAAQAAAAAMDMzMzP7vw8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:08:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BranchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Branch\\BranchRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Branch\\BranchRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Branch\\BranchRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Branch\\BranchRepo.cs",
+              "ViewState": "AQIAABgAAABAZ2ZmZmYSwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:26:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BranchAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Branch\\BranchAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Branch\\BranchAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Branch\\BranchAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Branch\\BranchAddDTO.cs",
+              "ViewState": "AQIAABIAAAAwmZmZmZk/wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:59:13.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IBranchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Branch\\IBranchRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Branch\\IBranchRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Branch\\IBranchRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Branch\\IBranchRepo.cs",
+              "ViewState": "AQIAAAAAAAAgMzMzMzMrwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:12:58.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICallRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Call\\ICallRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Call\\ICallRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Call\\ICallRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Call\\ICallRepo.cs",
+              "ViewState": "AQIAAAMAAAAAZmZmZmYowAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:48:29.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IEmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Employee\\IEmployeeManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Employee\\IEmployeeManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Employee\\IEmployeeManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Employee\\IEmployeeManager.cs",
+              "ViewState": "AQIAAAMAAACAZWZmZmYUwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:40:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CallRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Call\\CallRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Call\\CallRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Call\\CallRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Call\\CallRepo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:50:55.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SectionWithImagesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Section\\SectionWithImagesDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Section\\SectionWithImagesDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Section\\SectionWithImagesDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Section\\SectionWithImagesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:27:12.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Section\\SectionManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Section\\SectionManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Section\\SectionManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Section\\SectionManager.cs",
+              "ViewState": "AQIAAAEAAAAyLTMzMzMrwGQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:32:08.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ImageAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Image\\ImageAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Image\\ImageAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Image\\ImageAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Image\\ImageAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:28:06.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:03:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ImageFileManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Image\\ImageFileManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Image\\ImageFileManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Image\\ImageFileManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Image\\ImageFileManager.cs",
+              "ViewState": "AQIAABQAAAAA0MzMzMwewCgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:40:37.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ISectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Section\\ISectionManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Section\\ISectionManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Section\\ISectionManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Section\\ISectionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:29:49.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CallsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\CallsController.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\Controllers\\CallsController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\Controllers\\CallsController.cs",
+              "RelativeToolTip": "KiddyRanchWebAPI\\Controllers\\CallsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:17:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IImageFileManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Image\\IImageFileManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\Image\\IImageFileManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\Image\\IImageFileManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\Image\\IImageFileManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvwoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:38:49.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SectionUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Section\\SectionUpdateDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Section\\SectionUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Section\\SectionUpdateDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Section\\SectionUpdateDTO.cs",
+              "ViewState": "AQIAAAEAAACgzMzMzMwnwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:23:40.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SectionAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Section\\SectionAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Section\\SectionAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Section\\SectionAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Section\\SectionAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:22:50.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ImageRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Images\\ImageRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Images\\ImageRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Images\\ImageRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Images\\ImageRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:19:42.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IImageRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Images\\IImageRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Images\\IImageRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Images\\IImageRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Images\\IImageRepo.cs",
+              "ViewState": "AQIAAAAAAABAZmZmZmYUwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:19:27.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SectionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Section\\SectionRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Section\\SectionRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Section\\SectionRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Section\\SectionRepo.cs",
+              "ViewState": "AQIAABkAAABg+f////8jwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:17:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ISectionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Section\\ISectionRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Section\\ISectionRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Section\\ISectionRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Section\\ISectionRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:17:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Employee\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\Employee\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\Employee\\EmployeeRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\Employee\\EmployeeRepo.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:33:38.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CallDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Call\\CallDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Call\\CallDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Call\\CallDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Call\\CallDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABgPRAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:03:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240811173119_callsss.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240811173119_callsss.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Migrations\\20240811173119_callsss.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Migrations\\20240811173119_callsss.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Migrations\\20240811173119_callsss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:31:19.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CallAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Call\\CallAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Call\\CallAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Call\\CallAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Call\\CallAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:04:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EmployeeAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:43:39.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UploadFileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Upload\\UploadFileDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Upload\\UploadFileDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Upload\\UploadFileDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Upload\\UploadFileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:50:37.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Employee\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:42:45.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "web.config",
+              "DocumentMoniker": "F:\\web.config",
+              "ToolTip": "F:\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-14T19:51:10.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "KiddyRanchWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\KiddyRanchWebAPI.http",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\KiddyRanchWebAPI.http",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\KiddyRanchWebAPI.http",
+              "RelativeToolTip": "KiddyRanchWebAPI\\KiddyRanchWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-14T10:33:37.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CareerInterviewRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\CareerInterview\\CareerInterviewRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\CareerInterview\\CareerInterviewRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\CareerInterview\\CareerInterviewRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\CareerInterview\\CareerInterviewRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:18:07.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ICareerInterviewRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\CareerInterview\\ICareerInterviewRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\CareerInterview\\ICareerInterviewRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\CareerInterview\\ICareerInterviewRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\CareerInterview\\ICareerInterviewRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:16:59.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "StudentInterviewRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\StudentInterview\\StudentInterviewRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\StudentInterview\\StudentInterviewRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\StudentInterview\\StudentInterviewRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\StudentInterview\\StudentInterviewRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:36:19.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IStudentInterviewRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\StudentInterview\\IStudentInterviewRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\StudentInterview\\IStudentInterviewRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\StudentInterview\\IStudentInterviewRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\StudentInterview\\IStudentInterviewRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:35:11.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\User\\UserManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\User\\UserManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\User\\UserManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\User\\UserManager.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:35:37.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\User\\IUserManager.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\Managers\\User\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\Managers\\User\\IUserManager.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\Managers\\User\\IUserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:33:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Token\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Token\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Token\\TokenDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Token\\TokenDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:22:27.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:19:53.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "RelativeToolTip": "KiddyRanchWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:22:17.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "KiddyRanchWeb.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj",
+              "RelativeDocumentMoniker": "KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj",
+              "RelativeToolTip": "KiddyRanchWebAPI\\KiddyRanchWeb.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T17:16:20.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:57:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:58:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UserAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:26:23.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "KiddyRanchWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\KiddyRanchWebAPI\\KiddyRanchWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "KiddyRanchWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:27:48.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

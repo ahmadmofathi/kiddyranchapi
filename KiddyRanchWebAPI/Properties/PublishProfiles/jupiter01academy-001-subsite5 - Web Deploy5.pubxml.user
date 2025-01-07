@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-09-19T09:51:14.3118432Z||;True|2024-09-10T11:18:49.8850416+03:00||;True|2024-09-09T13:15:01.4839597+03:00||;False|2024-09-09T13:14:05.0501281+03:00||;True|2024-09-01T13:25:20.9836352+03:00||;True|2024-08-29T13:41:32.4664444+03:00||;True|2024-08-29T13:26:08.8188782+03:00||;True|2024-08-29T13:09:39.0397563+03:00||;True|2024-08-29T13:07:07.9744682+03:00||;True|2024-08-28T16:44:24.0768344+03:00||;True|2024-08-28T16:39:13.2468242+03:00||;True|2024-08-28T16:35:38.0348976+03:00||;True|2024-08-28T14:19:44.0493413+03:00||;True|2024-08-27T12:47:10.4824903+03:00||;True|2024-08-27T12:43:29.2223215+03:00||;True|2024-08-27T12:35:04.1973115+03:00||;True|2024-08-27T11:47:44.0299546+03:00||;True|2024-08-27T11:40:58.5193710+03:00||;True|2024-08-27T11:38:19.6725557+03:00||;True|2024-08-27T11:07:57.5497925+03:00||;True|2024-08-25T12:06:35.2607645+03:00||;True|2024-08-24T19:33:21.5417795+03:00||;True|2024-08-24T16:43:45.2097246+03:00||;False|2024-08-24T16:42:36.9616904+03:00||;True|2024-08-20T11:14:48.3292175+03:00||;True|2024-08-17T20:53:33.5496233+03:00||;True|2024-08-17T18:26:11.5004870+03:00||;True|2024-08-13T14:12:43.3468226+03:00||;True|2024-08-13T13:15:20.7194177+03:00||;True|2024-08-13T13:08:51.9232034+03:00||;True|2024-08-13T12:02:02.9148463+03:00||;True|2024-08-12T17:08:54.0860780+03:00||;False|2024-08-12T16:39:11.2283909+03:00||;False|2024-08-12T16:37:07.3311236+03:00||;False|2024-08-12T16:21:06.6317978+03:00||;False|2024-08-12T16:12:58.2884209+03:00||;False|2024-08-12T16:11:49.8427079+03:00||;False|2024-08-12T16:00:21.9813706+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8020.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="SecretKey">
+      <Value>kiddyranchsecretkeyinusersecrets</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="KiddyRanchWeb.DAL.AppDbContext">
+      <Value>Data Source=SQL8020.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

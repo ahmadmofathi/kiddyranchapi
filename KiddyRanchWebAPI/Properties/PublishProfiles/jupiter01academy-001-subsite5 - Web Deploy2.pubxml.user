@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-08-12T11:46:10.9661644Z;True|2024-08-11T20:37:49.7864514+03:00;True|2024-08-11T20:29:31.1225359+03:00;True|2024-08-11T20:27:08.6888943+03:00;True|2024-08-11T20:24:52.6140080+03:00;True|2024-08-11T20:21:51.4422873+03:00;True|2024-07-24T11:47:29.1825417+03:00;True|2024-07-23T11:10:05.3980278+03:00;True|2024-07-23T10:45:06.7028277+03:00;True|2024-07-23T10:42:56.1606574+03:00;True|2024-07-23T10:18:14.0085999+03:00;False|2024-07-23T10:16:14.6576428+03:00;True|2024-07-23T10:11:46.9140450+03:00;True|2024-07-23T10:03:40.0055765+03:00;True|2024-07-23T09:30:06.0852184+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL5111.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="SecretKey">
+      <Value>Data Source=SQL5111.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="KiddyRanchWeb.DAL.AppDbContext">
+      <Value>Data Source=SQL5111.site4now.net%3bInitial Catalog=db_aa0f47_kiddyranch%3bUser Id=db_aa0f47_kiddyranch_admin%3bPassword=Kiddy#123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

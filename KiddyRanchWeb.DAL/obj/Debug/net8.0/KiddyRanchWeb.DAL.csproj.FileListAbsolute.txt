@@ -1,0 +1,14 @@
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\bin\Debug\net8.0\KiddyRanchWeb.DAL.deps.json
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\bin\Debug\net8.0\KiddyRanchWeb.DAL.runtimeconfig.json
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\bin\Debug\net8.0\KiddyRanchWeb.DAL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\bin\Debug\net8.0\KiddyRanchWeb.DAL.pdb
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\refint\KiddyRanchWeb.DAL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.pdb
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\KiddyRanchWeb.DAL.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.DAL\obj\Debug\net8.0\ref\KiddyRanchWeb.DAL.dll

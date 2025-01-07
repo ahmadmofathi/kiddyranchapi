@@ -1,0 +1,15 @@
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\bin\Debug\net8.0\KiddyRanchWeb.BL.deps.json
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\bin\Debug\net8.0\KiddyRanchWeb.BL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\bin\Debug\net8.0\KiddyRanchWeb.BL.pdb
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\bin\Debug\net8.0\KiddyRanchWeb.DAL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\bin\Debug\net8.0\KiddyRanchWeb.DAL.pdb
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\refint\KiddyRanchWeb.BL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRanchWeb.BL.pdb
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\ref\KiddyRanchWeb.BL.dll
+C:\Users\ahmad\source\repos\KiddyRanchWebAPI\KiddyRanchWeb.BL\obj\Debug\net8.0\KiddyRan.DEB2FE8D.Up2Date
